@@ -1,0 +1,120 @@
+id,provinsi,nama,tipe,ibu_kota,latitude,longitude
+32.01,Jawa Barat,Kabupaten Bogor,Kabupaten,Cibinong,-6.4794789481,106.82471731
+32.02,Jawa Barat,Kabupaten Sukabumi,Kabupaten,Palabuhanratu,-6.9891646145,106.55022261
+32.03,Jawa Barat,Kabupaten Cianjur,Kabupaten,Cianjur,-6.8227461737,107.139483583
+32.04,Jawa Barat,Kabupaten Bandung,Kabupaten,Soreang,-7.0218547793,107.5275512254
+32.05,Jawa Barat,Kabupaten Garut,Kabupaten,Tarogong Kidul,-7.2026716672,107.886068055
+32.06,Jawa Barat,Kabupaten Tasikmalaya,Kabupaten,Singaparna,-7.3610387036,108.1130761984
+32.07,Jawa Barat,Kabupaten Ciamis,Kabupaten,Ciamis,-7.3258991035,108.3514012468
+32.08,Jawa Barat,Kabupaten Kuningan,Kabupaten,Kuningan,-6.9758648609,108.4831046254
+32.09,Jawa Barat,Kabupaten Cirebon,Kabupaten,Sumber,-6.7645280332,108.4786195542
+32.10,Jawa Barat,Kabupaten Majalengka,Kabupaten,Majalengka,-6.8362708337,108.2275554947
+32.11,Jawa Barat,Kabupaten Sumedang,Kabupaten,Sumedang Utara,-6.8612039431,107.9206168965
+32.12,Jawa Barat,Kabupaten Indramayu,Kabupaten,Indramayu,-6.3270802083,108.3232090984
+32.13,Jawa Barat,Kabupaten Subang,Kabupaten,Subang,-6.5712948533,107.7623531812
+32.14,Jawa Barat,Kabupaten Purwakarta,Kabupaten,Purwakarta,-6.5562118458,107.4412567254
+32.15,Jawa Barat,Kabupaten Karawang,Kabupaten,Karawang Barat,-6.3016163433,107.30488191
+32.16,Jawa Barat,Kabupaten Bekasi,Kabupaten,Cikarang Pusat,-6.2474466,107.1484521
+32.17,Jawa Barat,Kabupaten Bandung Barat,Kabupaten,Ngamprah,-6.8652214,107.4919767
+32.18,Jawa Barat,Kabupaten Pangandaran,Kabupaten,Parigi,-7.6150611,108.4988269
+32.71,Jawa Barat,Kota Bogor,Kota,Bogor,-6.595057465,106.79411231
+32.72,Jawa Barat,Kota Sukabumi,Kota,Sukabumi,-6.9176190282,106.9318568389
+32.73,Jawa Barat,Kota Bandung,Kota,Bandung,-6.9106558264,107.6098695254
+32.74,Jawa Barat,Kota Cirebon,Kota,Cirebon,-6.7067353098,108.5582466542
+32.75,Jawa Barat,Kota Bekasi,Kota,Bekasi,-6.2360139578,106.9942480407
+32.76,Jawa Barat,Kota Depok,Kota,Depok,-6.3941661326,106.8226891965
+32.77,Jawa Barat,Kota Cimahi,Kota,Cimahi,-6.8708071594,107.5551592235
+32.78,Jawa Barat,Kota Tasikmalaya,Kota,Tasikmalaya,-7.3160531331,108.1970138965
+32.79,Jawa Barat,Kota Banjar,Kota,Banjar,-7.3621612236,108.559589883
+31.01,DKI Jakarta,Kabupaten Administrasi Kepulauan Seribu,Kabupaten Administrasi,Pulau Pramuka,-5.7464809978,106.6131600254
+31.71,DKI Jakarta,Kota Administrasi Jakarta Pusat,Kota Administrasi,Menteng,-6.1729132631,106.8186962542
+31.72,DKI Jakarta,Kota Administrasi Jakarta Utara,Kota Administrasi,Koja,-6.1200283357,106.8924951389
+31.73,DKI Jakarta,Kota Administrasi Jakarta Barat,Kota Administrasi,Kembangan,-6.1843345012,106.7366205389
+31.74,DKI Jakarta,Kota Administrasi Jakarta Selatan,Kota Administrasi,Kebayoran Baru,-6.2477750073,106.8076367965
+31.75,DKI Jakarta,Kota Administrasi Jakarta Timur,Kota Administrasi,Cakung,-6.2136855478,106.9440075965
+36.01,Banten,Kabupaten Pandeglang,Kabupaten,Pandeglang,-6.3168554305,106.1147944698
+36.02,Banten,Kabupaten Lebak,Kabupaten,Rangkasbitung,-6.3607670885,106.246186997
+36.03,Banten,Kabupaten Tangerang,Kabupaten,Tigaraksa,-6.2696304556,106.4844047407
+36.04,Banten,Kabupaten Serang,Kabupaten,Ciruas,-6.115302501,106.152015083
+36.71,Banten,Kota Tangerang,Kota,Tangerang,-6.164361555,106.6410711382
+36.72,Banten,Kota Cilegon,Kota,Cilegon,-6.0098090188,106.042128683
+36.73,Banten,Kota Serang,Kota,Serang,-6.119697574,106.1734606984
+36.74,Banten,Kota Tangerang Selatan,Kota,Tangerang Selatan,-6.321567965,106.7077420574
+33.01,Jawa Tengah,Kabupaten Cilacap,Kabupaten,Cilacap,-7.7255989139,109.0095398968
+33.02,Jawa Tengah,Kabupaten Banyumas,Kabupaten,Purwokerto,-7.4227990605,109.2300833391
+33.03,Jawa Tengah,Kabupaten Purbalingga,Kabupaten,Purbalingga,-7.3888144203,109.36407616798
+33.04,Jawa Tengah,Kabupaten Banjarnegara,Kabupaten,Banjarnegara,-7.3956953908,109.6960697362
+33.05,Jawa Tengah,Kabupaten Kebumen,Kabupaten,Kebumen,-7.6684437365,109.6537158312
+33.06,Jawa Tengah,Kabupaten Purworejo,Kabupaten,Purworejo,-7.7139746009,110.0082985542
+33.07,Jawa Tengah,Kabupaten Wonosobo,Kabupaten,Wonosobo,-7.3583311423,109.9051625389
+33.08,Jawa Tengah,Kabupaten Magelang,Kabupaten,Mungkid,-7.5969840264,110.2235311304
+33.09,Jawa Tengah,Kabupaten Boyolali,Kabupaten,Boyolali,-7.5456561042,110.6105957965
+33.10,Jawa Tengah,Kabupaten Klaten,Kabupaten,Klaten,-7.7123850363,110.5921356677
+33.11,Jawa Tengah,Kabupaten Sukoharjo,Kabupaten,Sukoharjo,-7.6645988722,110.8358676542
+33.12,Jawa Tengah,Kabupaten Wonogiri,Kabupaten,Wonogiri,-7.8150583648,110.9256844677
+33.13,Jawa Tengah,Kabupaten Karanganyar,Kabupaten,Karanganyar,-7.5955169659,110.9396402965
+33.14,Jawa Tengah,Kabupaten Sragen,Kabupaten,Sragen,-7.4263547625,111.0231794389
+33.15,Jawa Tengah,Kabupaten Grobogan,Kabupaten,Purwodadi,-7.0820585553,110.9173715965
+33.16,Jawa Tengah,Kabupaten Blora,Kabupaten,Blora,-6.9697185057,111.4149227965
+33.17,Jawa Tengah,Kabupaten Rembang,Kabupaten,Rembang,-6.7034660299,111.3426214407
+33.18,Jawa Tengah,Kabupaten Pati,Kabupaten,Pati,-6.7522267435,111.0399475965
+33.19,Jawa Tengah,Kabupaten Kudus,Kabupaten,Kudus,-6.805651711,110.8421953119
+33.20,Jawa Tengah,Kabupaten Jepara,Kabupaten,Jepara,-6.5900944625,110.6681297119
+33.21,Jawa Tengah,Kabupaten Demak,Kabupaten,Demak,-6.8913546146,110.6383893389
+33.22,Jawa Tengah,Kabupaten Semarang,Kabupaten,Ungaran,-7.1289573934,110.4040909965
+33.23,Jawa Tengah,Kabupaten Temanggung,Kabupaten,Temanggung,-7.3153164571,110.1818924254
+33.24,Jawa Tengah,Kabupaten Kendal,Kabupaten,Kendal,-6.9228368803,110.2035670965
+33.25,Jawa Tengah,Kabupaten Batang,Kabupaten,Batang,-6.910710872,109.729682383
+33.26,Jawa Tengah,Kabupaten Pekalongan,Kabupaten,Kajen,-7.0250357326,109.5911453254
+33.27,Jawa Tengah,Kabupaten Pemalang,Kabupaten,Pemalang,-6.8931514104,109.3807193542
+33.28,Jawa Tengah,Kabupaten Tegal,Kabupaten,Slawi,-6.995407828,109.1278949254
+33.29,Jawa Tengah,Kabupaten Brebes,Kabupaten,Brebes,-6.8701105519,109.0392108689
+33.71,Jawa Tengah,Kota Magelang,Kota,Magelang,-7.5037109663,110.2214708254
+33.72,Jawa Tengah,Kota Surakarta,Kota,Surakarta,-7.5692605523,110.82945951
+33.73,Jawa Tengah,Kota Salatiga,Kota,Salatiga,-7.3304371484,110.5008298965
+33.74,Jawa Tengah,Kota Semarang,Kota,Semarang,-6.9816796166,110.4122341696
+33.75,Jawa Tengah,Kota Pekalongan,Kota,Pekalongan,-6.8969497175,109.6620808965
+33.76,Jawa Tengah,Kota Tegal,Kota,Tegal,-6.8704087485,109.13741611
+34.01,DI Yogyakarta,Kabupaten Kulon Progo,Kabupaten,Wates,-7.8578086763,110.1591612831
+34.02,DI Yogyakarta,Kabupaten Bantul,Kabupaten,Bantul,-7.8861898376,110.3278379965
+34.03,DI Yogyakarta,Kabupaten Gunungkidul,Kabupaten,Wonosari,-7.9640796351,110.6015380965
+34.04,DI Yogyakarta,Kabupaten Sleman,Kabupaten,Sleman,-7.7165467342,110.3557726677
+34.71,DI Yogyakarta,Kota Yogyakarta,Kota,Yogyakarta,-7.7999050256,110.3913707542
+35.01,Jawa Timur,Kabupaten Pacitan,Kabupaten,Pacitan,-8.194484702,111.1031652261
+35.02,Jawa Timur,Kabupaten Ponorogo,Kabupaten,Ponorogo,-7.8708738021,111.4625487137
+35.03,Jawa Timur,Kabupaten Trenggalek,Kabupaten,Trenggalek,-8.0479100641,111.7091508235
+35.04,Jawa Timur,Kabupaten Tulungagung,Kabupaten,Tulungagung,-8.0643647158,111.9006800055
+35.05,Jawa Timur,Kabupaten Blitar,Kabupaten,Kanigoro,-8.1239308864,112.2130742102
+35.06,Jawa Timur,Kabupaten Kediri,Kabupaten,Ngasem,-7.8021648925,112.0411135673
+35.07,Jawa Timur,Kabupaten Malang,Kabupaten,Kepanjen,-8.1054590291,112.5732913409
+35.08,Jawa Timur,Kabupaten Lumajang,Kabupaten,Lumajang,-8.1352061533,113.2243946382
+35.09,Jawa Timur,Kabupaten Jember,Kabupaten,Jember,-8.1696709751,113.7021510542
+35.10,Jawa Timur,Kabupaten Banyuwangi,Kabupaten,Banyuwangi,-8.2230372048,114.3664352394
+35.11,Jawa Timur,Kabupaten Bondowoso,Kabupaten,Bondowoso,-7.9144445816,113.8218507119
+35.12,Jawa Timur,Kabupaten Situbondo,Kabupaten,Situbondo,-7.7073406244,114.0017751831
+35.13,Jawa Timur,Kabupaten Probolinggo,Kabupaten,Kraksaan,-7.7618187447,113.4159725254
+35.14,Jawa Timur,Kabupaten Pasuruan,Kabupaten,Bangil,-7.6490124603,112.9051590965
+35.15,Jawa Timur,Kabupaten Sidoarjo,Kabupaten,Sidoarjo,-7.4471733063,112.7180783389
+35.16,Jawa Timur,Kabupaten Mojokerto,Kabupaten,Mojosari,-7.462844394,112.433419983
+35.17,Jawa Timur,Kabupaten Jombang,Kabupaten,Jombang,-7.556402096,112.234609583
+35.18,Jawa Timur,Kabupaten Nganjuk,Kabupaten,Nganjuk,-7.601982862,111.9018954542
+35.19,Jawa Timur,Kabupaten Madiun,Kabupaten,Caruban,-7.53854096,111.6534826499
+35.20,Jawa Timur,Kabupaten Magetan,Kabupaten,Magetan,-7.6561572975,111.3292686542
+35.21,Jawa Timur,Kabupaten Ngawi,Kabupaten,Ngawi,-7.4012860508,111.4454426677
+35.22,Jawa Timur,Kabupaten Bojonegoro,Kabupaten,Bojonegoro,-7.1499353597,111.8815426254
+35.23,Jawa Timur,Kabupaten Tuban,Kabupaten,Tuban,-6.8961044098,112.0650627254
+35.24,Jawa Timur,Kabupaten Lamongan,Kabupaten,Lamongan,-7.1210348508,112.4154343407
+35.25,Jawa Timur,Kabupaten Gresik,Kabupaten,Gresik,-7.1705875718,112.5996762965
+35.26,Jawa Timur,Kabupaten Bangkalan,Kabupaten,Bangkalan,-7.0463924999,112.7370671965
+35.27,Jawa Timur,Kabupaten Sampang,Kabupaten,Sampang,-7.1875353392,113.2373403117
+35.28,Jawa Timur,Kabupaten Pamekasan,Kabupaten,Pamekasan,-7.1568841543,113.4718825965
+35.29,Jawa Timur,Kabupaten Sumenep,Kabupaten,Sumenep,-7.0140334299,113.8635259965
+35.71,Jawa Timur,Kota Kediri,Kota,Kediri,-7.8121941507,112.0142841831
+35.72,Jawa Timur,Kota Blitar,Kota,Blitar,-8.0991742923,112.1645539119
+35.73,Jawa Timur,Kota Malang,Kota,Malang,-7.9777881193,112.63383581
+35.74,Jawa Timur,Kota Probolinggo,Kota,Probolinggo,-7.7536777029,113.2142395389
+35.75,Jawa Timur,Kota Pasuruan,Kota,Pasuruan,-7.6473706929,112.9085504119
+35.76,Jawa Timur,Kota Mojokerto,Kota,Mojokerto,-7.4628151554,112.4334458858
+35.77,Jawa Timur,Kota Madiun,Kota,Madiun,-7.6243968732,111.5206491696
+35.78,Jawa Timur,Kota Surabaya,Kota,Surabaya,-7.2588913236,112.7470388812
+35.79,Jawa Timur,Kota Batu,Kota,Batu,-7.8625160512,112.5133531677
